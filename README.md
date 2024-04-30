@@ -23,35 +23,35 @@
 
 <div align="center">
    <div style="display-flex" just>
-      <img src="SS1.png" width="300" height="600">
+      <img src="SS1.png" width="500" height="600">
       <img width="30">
-      <img src="SS2.png" width="300" height="600">
+      <img src="SS2.png" width="500" height="600">
       <img width="30">
-      <img src="SS3.png" width="300" height="600">
+      <img src="SS3.png" width="500" height="600">
       <img width="30">
-      <img src="SS4.png" width="300" height="600">
+      <img src="SS4.png" width="500" height="600">
       <img width="30">
-      <img src="SS5.png" width="300" height="600">
-      <img src="SS6.png" width="300" height="600">
+      <img src="SS5.png" width="500" height="600">
+      <img src="SS6.png" width="500" height="600">
       <img width="30">
-      <img src="SS7.png" width="300" height="600">
+      <img src="SS7.png" width="500" height="600">
       <img width="30">
-      <img src="SS8.png" width="300" height="600">
+      <img src="SS8.png" width="500" height="600">
       <img width="30">
-      <img src="SS9.png" width="300" height="600">
+      <img src="SS9.png" width="500" height="600">
       <img width="30">
-      <img src="SS10.png" width="300" height="600">
+      <img src="SS10.png" width="500" height="600">
       <img width="30">
-      <img src="SS11.png" width="300" height="600">
+      <img src="SS11.png" width="500" height="600">
       <img width="30">
-      <img src="SS12.png" width="300" height="600">
+      <img src="SS12.png" width="500" height="600">
       <img width="30">
-      <img src="SS13.png" width="300" height="600">
+      <img src="SS13.png" width="500" height="600">
       <img width="30">
-      <img src="SS14.png" width="300" height="600">
+      <img src="SS14.png" width="500" height="600">
       <img width="30">
-      <img src="SS15.png" width="300" height="600">
+      <img src="SS15.png" width="500" height="600">
       <img width="30">
-      <img src="SS16.png" width="300" height="600">
+      <img src="SS16.png" width="500" height="600">
    </div>
 </div>
